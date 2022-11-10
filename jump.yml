@@ -1,3 +1,0 @@
-steps:
-- script: echo Jump, baby jump!
-  displayName: 'Jump from template'
